@@ -10,11 +10,6 @@
 A pastel-themed memory match game built with Python using `tkinter` and `Pillow`.  
 Match pairs of Pokémon cards by flipping them over two at a time. Once all pairs are matched, the game ends.
 
-# What the Game Looks Like
-
-![Game Screenshot 1](screenshot1.png)
-![Game Screenshot 2](screenshot2.png)
-
 ## How to Play
 
 1. Run the game using Python:
