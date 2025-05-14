@@ -1,7 +1,16 @@
+<h3 align="center">Pokémon Memory Match Game Preview</h3>
+
+<p align="center">
+  <img src="screenshot1.png" width="300" />
+  <img src="screenshot2.png" width="300" />
+</p>
+
 # Pokémon Memory Match Game
 
 A pastel-themed memory match game built with Python using `tkinter` and `Pillow`.  
 Match pairs of Pokémon cards by flipping them over two at a time. Once all pairs are matched, the game ends.
+
+# What the Game Looks Like
 
 ![Game Screenshot 1](screenshot1.png)
 ![Game Screenshot 2](screenshot2.png)
